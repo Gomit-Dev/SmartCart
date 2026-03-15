@@ -106,7 +106,7 @@ smartcart
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/smartcart.git
+git clone https://github.com/Gomit-Dev/SmartCart.git
 ```
 
 ---
