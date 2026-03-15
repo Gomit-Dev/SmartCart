@@ -230,13 +230,13 @@ This project demonstrates:
 
 # Author
 
-Your Name
+Gomit Saha
 
 GitHub:
-`https://github.com/yourusername`
+`https://github.com/Gomit-Dev`
 
 LinkedIn:
-`https://linkedin.com/in/yourprofile`
+`https://linkedin.com/in/gomit-saha/`
 
 ---
 
