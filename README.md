@@ -1,7 +1,5 @@
 # SmartCart – Smart E-Commerce Platform
 
-<<<<<<< HEAD
-=======
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Node](https://img.shields.io/badge/Backend-Node.js-green)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-darkgreen)
