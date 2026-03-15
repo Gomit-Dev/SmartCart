@@ -4,7 +4,6 @@
 ![Node](https://img.shields.io/badge/Backend-Node.js-green)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-darkgreen)
 
->>>>>>> d79a388eb48b5c1b16e817e172b5bbc7216e6d63
 A modern **full-stack e-commerce web application** built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.
 SmartCart allows users to browse products, apply smart filters, manage shopping carts, and place orders through a responsive and scalable interface.
 
